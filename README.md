@@ -1,7 +1,11 @@
-# super_monkey_ball
-This Unity game is based on the first level of Super Monkey Ball from GameCube using default shapes and Unity assets. This recreated level was designed with the intention of practicing object-oriented techniques.
+# Super Monkey Ball - Level 1 Re-creation
+This Unity game is based on the first level of Super Monkey Ball from GameCube using default shapes and Unity assets. This re-created level was designed solely with the intention of practicing object-oriented techniques.
 
 It is important to note that the files included in this repository are stand-alone files, and this is not the complete Unity project. This repository simply serves to see the code involved and to run the completed version.
+
+## Demo
+
+![Super Monkey Ball Level Re-Creation Demo](demo.gif)
 
 ## Getting Started
 
@@ -12,7 +16,7 @@ In order to test the code written in a Unity environment, create a Unity project
 
 ### Running the Completed Version
 
-In order to run the complete version of this recreated level of Super Monkey Ball, you must download the [smb.app.zip] file, unzip, and run the [smb.app] file. This app was intended to be run on a MacBook Pro (2015).
+In order to run the complete version of this re-created level of Super Monkey Ball, you must download the [smb.app.zip] file, unzip, and run the [smb] file. This app is intended to be run on a MacBook Pro (2015).
 
 ## Built With
 
