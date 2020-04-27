@@ -16,7 +16,7 @@ In order to test the code written in a Unity environment, create a Unity project
 
 ### Running the Completed Version
 
-In order to run the complete version of this re-created level of Super Monkey Ball, you must download the [smb.app.zip] file, unzip, and run the [smb] file. This app is intended to be run on a MacBook Pro (2015).
+In order to run the complete version of this re-created level of Super Monkey Ball, you must download the [smb.app.zip](#) file, unzip, and run the [smb](#) file. This app is intended to be run on a MacBook Pro (2015).
 
 ## Built With
 
